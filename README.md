@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/PolinaGospodarik/github-readme-stats">
+<div>
+  <a href="https://github.com/PolinaGospodarik/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/PolinaGospodarik/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=default#gh-light-mode-only&langs_count=8&card_width=320" />
-</a>
+  </a>
+  <a href="https://github.com/PolinaGospodarik/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320"    />
+</div>
+
+
 
 
 
