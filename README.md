@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![PolinaGospodarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaGospodarik)](https://github.com/PolinaGospodarik/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact)
--->
 <a href="https://github.com/PolinaGospodarik/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=dark#gh-dark-mode-only" />
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=default#gh-light-mode-only" />
