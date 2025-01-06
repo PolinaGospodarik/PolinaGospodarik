@@ -1,4 +1,6 @@
 ## Hi, I'm Polina Gospodarik👋
+
+
 <a href="https://www.linkedin.com/in/palina-haspadaryk-460125318/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -20,14 +22,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/PolinaGospodarik">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=radical" alt="PolinaGospodarik's GitHub stats"/>
-  </a>
-  <a href="https://github.com/PolinaGospodarik/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=radical&langs_count=8&card_width=320" alt="PolinaGospodarik's Top Languages"/>
-  </a>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="PolinaGospodarik's stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
 </div>
+
 
 
 
