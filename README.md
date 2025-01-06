@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/PolinaGospodarik/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=dark#gh-dark-mode-only" />
-  </a>
+<a href="https://github.com/PolinaGospodarik">
+  <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=transparent" alt="PolinaGospodarik's GitHub stats" />
+</a>
   <a href="https://github.com/PolinaGospodarik/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320"    /a>
 </div>
