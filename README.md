@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div>
+
   <a href="https://github.com/PolinaGospodarik">
     <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=radical" alt="PolinaGospodarik's GitHub stats" />
   </a>
