@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<div>
-
+<div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/PolinaGospodarik">
     <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=radical" alt="PolinaGospodarik's GitHub stats" />
   </a>
   <a href="https://github.com/PolinaGospodarik/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320"    /a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaGospodarik&layout=compact&theme=radical&langs_count=8&card_width=320" alt="Top Languages" />
+  </a>
 </div>
 
 
