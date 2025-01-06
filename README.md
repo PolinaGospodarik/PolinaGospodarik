@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div style="display: flex; align-items: center;">
   <a href="https://github.com/PolinaGospodarik">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&show_icons=true&theme=radical" alt="PolinaGospodarik's GitHub stats"/>
   </a>
