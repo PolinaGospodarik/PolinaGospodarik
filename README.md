@@ -3,7 +3,7 @@
 
 <div display="flex" justify-content="space-between">
   <img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAd/cat-computer.gif" alt="Cat typing on computer" width="200" />
-  <h4 align="center">My portfolio:</h4>
+  <h4>My portfolio:</h4>
 </div>
 
 ###
