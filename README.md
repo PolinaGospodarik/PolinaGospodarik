@@ -41,6 +41,18 @@
       <a href="https://sass-scss.ru/guide/" target="_blank">
         <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
       </a>
+      <a href="https://git-scm.com/" target="_blank">
+          <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+      </a>
+       <a href="https://vitejs.dev/" target="_blank">
+          <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://pnpm.io/" target="_blank">
+          <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/bdc5b/ru/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" title="pnpm" alt="pnpm" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://yarnpkg.com/" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22247014?s=280&v=4" title="yarn" alt="yarn" width="50" height="50"/>&nbsp;
+        </a>  
 </div>
 
 
