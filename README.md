@@ -45,7 +45,7 @@
           <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
       </a>
       <a href="https://webpack.js.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack Logo" width="50" height="50" />
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack Badge" />
       </a>
        <a href="https://vitejs.dev/" target="_blank">
           <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
