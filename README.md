@@ -19,20 +19,29 @@
 
 ###
 
-<!--
-**PolinaGospodarik/PolinaGospodarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+    </a>
+     <a href="https://react.dev/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+     </a>
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="https://sass-scss.ru/guide/" target="_blank">
+        <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
+      </a>
+</div>
 
 
 <div align="center">
