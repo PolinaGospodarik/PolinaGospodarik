@@ -56,6 +56,9 @@
         <a href="https://yarnpkg.com/" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/22247014?s=280&v=4" title="yarn" alt="yarn" width="50" height="50"/>&nbsp;
         </a>  
+        <a href="https://www.npmjs.com/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM Logo" width="50" height="50" />
+        </a>
 </div>
 
 
