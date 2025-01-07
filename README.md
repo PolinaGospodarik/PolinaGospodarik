@@ -2,6 +2,10 @@
 <h1 align="center">Hi, I'm Polina Gospodarik👋</h1>
 
 <div align="center">
+  <img src="https://media.tenor.com/XI6Ed7JK6dcAAAAC/cat-computer.gif" alt="Cat typing on computer" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/palina-haspadaryk-460125318/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
