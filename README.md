@@ -44,9 +44,8 @@
       <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
       </a>
-      <a href="https://webpack.js.org/" target="_blank" style="text-decoration: none; display: inline-block; background-color: #2B3A42; padding: 10px 20px; border-radius: 5px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack Logo" width="30" style="vertical-align: middle;" />
-        <span style="color: white; font-weight: bold; margin-left: 10px;">Webpack</span>
+      <a href="https://webpack.js.org/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack Logo" width="50" height="50" />
       </a>
        <a href="https://vitejs.dev/" target="_blank">
           <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
