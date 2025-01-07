@@ -47,7 +47,10 @@
        <a href="https://vitejs.dev/" target="_blank">
           <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
         </a>
-        <a href="https://pnpm.io/" target="_blank">
+        <a href="https://www.npmjs.com/" target="_blank">
+            <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/bdc5b/ru/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="NPM Logo" width="50" height="50" />
+        </a>
+         <a href="https://pnpm.io/" target="_blank">
           <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/bdc5b/ru/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" title="pnpm" alt="pnpm" width="50" height="50"/>&nbsp;
         </a>
         <a href="https://yarnpkg.com/" target="_blank">
