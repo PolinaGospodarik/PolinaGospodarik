@@ -2,8 +2,12 @@
 <h1 align="center">Hi, I'm Polina Gospodarik👋</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/XI6Ed7JK6dcAAAAC/cat-computer.gif" alt="Cat typing on computer" width="300"/>
+  <div class="tenor-gif-embed" data-postid="5081651" data-share-method="host" data-aspect-ratio="1" data-width="50%">
+    <a href="https://tenor.com/view/cat-computer-typing-keyboard-laptop-gif-5081651">кот на компьютере животные животное GIF</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/palina-haspadaryk-460125318/">
