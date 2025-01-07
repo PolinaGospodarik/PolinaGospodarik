@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Polina Gospodarik👋</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/XI6Ed7JK6dcAAAAC/cat-computer.gif" alt="Cat typing on computer" />
+  <img src="https://media.tenor.com/XI6Ed7JK6dcAAAAC/cat-computer.gif" alt="Cat typing on computer" width="300"/>
 </div>
 
 <div align="center">
