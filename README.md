@@ -19,7 +19,7 @@
 
 ###
 
-<div>
+<div align="center" >
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
     </a>
