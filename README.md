@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAd/cat-computer.gif" alt="Cat typing on computer" width="200" />
-  <h3>My portfolio:</h3>
+<!--   <h3>My portfolio:</h3> -->
 </div>
 
 ###
