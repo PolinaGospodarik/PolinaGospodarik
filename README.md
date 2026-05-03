@@ -23,7 +23,7 @@
 ---
 <h3 align="center">Stack:</h3>
 
-<div align="center">
+<p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
     </a>
@@ -63,7 +63,7 @@
     <a href="https://yarnpkg.com/" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/22247014?s=280&v=4" title="yarn" alt="yarn" width="50" height="50"/>&nbsp;
     </a>  
-</div>
+</p>
 
 ---
 
@@ -74,10 +74,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
 </div>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=PolinaGospodarik&theme=react&hide_border=false&border_radius=10&layout=compact)](https://git.io/streak-stats)
-  [![Top Languages](https://github-profile-trophy.vercel.app/?username=PolinaGospodarik&theme=onedark&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 <div align="center">
   MY PROJECT: https://manga-reader-smoky.vercel.app
