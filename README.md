@@ -67,23 +67,24 @@
 
 ---
 
-<h3 align="center"">My stats :</h3>
+<!-- <h3 align="center"">My stats :</h3> -->
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="PolinaGospodarik's stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PolinaGospodarik&theme=react" height="150" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   ![Polina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PolinaGospodarik&theme=radical&show_icons=true)
 </p> -->
 
+<h3 align="center"">My project:</h3>
 <div align="center">
-  MY PROJECT: https://manga-reader-smoky.vercel.app
+https://manga-reader-smoky.vercel.app
 </div>
 
 
