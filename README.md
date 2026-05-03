@@ -74,6 +74,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PolinaGospodarik&theme=react" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PolinaGospodarik&theme=onedark&no-bg=true&row=1" height="150" />
+</p>
 
 <div align="center">
   MY PROJECT: https://manga-reader-smoky.vercel.app
