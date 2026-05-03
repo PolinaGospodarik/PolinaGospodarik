@@ -6,7 +6,7 @@
 <!--   <h3>My portfolio:</h3> -->
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/polina-gospodarik-460125318/">
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-###
+---
 <h3 align="center">Stack:</h3>
 
 <div align="center" >
@@ -65,7 +65,7 @@
     </a>  
 </div>
 
-###
+---
 
 <h3 align="center"">My stats :</h3>
 
