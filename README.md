@@ -23,7 +23,7 @@
 ---
 <h3 align="center">Stack:</h3>
 
-<div align="center" >
+<div align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
     </a>
@@ -69,10 +69,10 @@
 
 <h3 align="center"">My stats :</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="PolinaGospodarik's stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&layout=compact&langs_count=5&theme=transparent&hide_border=false" height="150" />
+</p>
 
 <div align="center">
   MY PROJECT: https://manga-reader-smoky.vercel.app
