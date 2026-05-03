@@ -69,10 +69,12 @@
 
 <h3 align="center"">My stats :</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&layout=compact&langs_count=5&theme=transparent&hide_border=false" height="150" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="PolinaGospodarik's stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
+</div>
+[![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaGospodarik)](https://github.com/PolinaGospodarik)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&layout=compact)](https://github.com/PolinaGospodarik)
 
 <div align="center">
   MY PROJECT: https://manga-reader-smoky.vercel.app
