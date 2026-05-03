@@ -76,7 +76,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PolinaGospodarik&theme=react" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PolinaGospodarik&theme=onedark&no-bg=true&row=1" height="150" />
+</p>
+
+<p align="center">
+  ![Polina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PolinaGospodarik&theme=radical&show_icons=true)
 </p>
 
 <div align="center">
