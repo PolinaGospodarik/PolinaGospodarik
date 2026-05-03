@@ -73,8 +73,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PolinaGospodarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="PolinaGospodarik's stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="PolinaGospodarik's languages graph" />
 </div>
-[![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaGospodarik)](https://github.com/PolinaGospodarik)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PolinaGospodarik&layout=compact)](https://github.com/PolinaGospodarik)
+
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=PolinaGospodarik&theme=react&hide_border=false&border_radius=10&layout=compact)](https://git.io/streak-stats)
+  [![Top Languages](https://github-profile-trophy.vercel.app/?username=PolinaGospodarik&theme=onedark&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <div align="center">
   MY PROJECT: https://manga-reader-smoky.vercel.app
