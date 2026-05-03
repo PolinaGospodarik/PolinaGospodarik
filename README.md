@@ -36,11 +36,11 @@
     <a href="https://redux.js.org/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
     </a>
     <a href="https://sass-scss.ru/guide/" target="_blank">
       <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
